@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Felipe
 
-**`Desenvolvedor Curioso`**
+**`Desenvolvedor Full-Stack`**
 
 <p align="left">
     <a href="https://www.youtube.com/@MrRisadola">
@@ -108,6 +108,16 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
 
 <br/>
